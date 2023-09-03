@@ -1,1 +1,1 @@
-
+El codigo necesario para resolver el tp se encuentra en el notebook TP1_Robots.ipynb. El mismo es auto contenido, es decir, en cada celda se encuentra el enunciado del ejercicio y correr dicha celda presenta la solucion del mismo.
