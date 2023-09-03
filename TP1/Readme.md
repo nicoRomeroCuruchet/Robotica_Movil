@@ -8,4 +8,5 @@
 
 # Informe:
 
-- Junto con el codigo que resuelve el TP1 se presenta un informe donde se discuten resultados y se hacen aclaraciones importantes sobre el codigo entregado, es el archivo: **TP1_informe.pdf**
+- Junto con el codigo que resuelve el TP1 se presenta un informe donde se discuten resultados y se hacen aclaraciones importantes sobre el codigo entregado, es el archivo: **RoboticaMovil-TP1
+.pdf**
